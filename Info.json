@@ -4,5 +4,6 @@
         "version"     : "0" ,
         "season" : "0" ,
         "news" : "[Link]https://yakutcoding.github.io/EternalMatchJson/BannerWithoutLogo.png" ,
-        "link" : "https://example.com"
+        "link" : "https://example.com",
+        "RandomCode" : "1";
       }
